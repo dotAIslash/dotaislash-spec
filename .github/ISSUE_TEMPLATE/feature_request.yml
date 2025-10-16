@@ -1,0 +1,73 @@
+name: ✨ Feature Request
+description: Suggest a new feature or enhancement for VERSA
+title: "[FEATURE] "
+labels: ["enhancement", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a new feature!
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: 🎯 Problem Statement
+      description: What problem does this feature solve?
+      placeholder: As a user, I want to... so that I can...
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: 💡 Proposed Solution
+      description: Describe your ideal solution
+      placeholder: I would like to see...
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 🔄 Alternatives Considered
+      description: What alternative solutions have you considered?
+
+  - type: textarea
+    id: examples
+    attributes:
+      label: 📚 Examples
+      description: |
+        Provide examples of how this feature would be used:
+        - Code snippets
+        - Configuration examples
+        - Use cases
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 📊 Priority
+      description: How important is this feature to you?
+      options:
+        - Critical - Blocking work
+        - High - Would significantly improve workflow
+        - Medium - Nice to have
+        - Low - Minor improvement
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: 🤝 Contribution
+      options:
+        - label: I would be willing to implement this feature and submit a PR
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: ✅ Pre-submission Checklist
+      options:
+        - label: I have searched existing issues and discussions to ensure this is not a duplicate
+          required: true
+        - label: This feature aligns with the VERSA specification goals
+          required: true

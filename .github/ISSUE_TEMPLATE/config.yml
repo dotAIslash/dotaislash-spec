@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/orgs/dotAIslash/discussions
+    about: Ask questions and discuss VERSA with the community
+  - name: 📖 Documentation
+    url: https://dotaislash.github.io
+    about: Read the full VERSA specification and guides
+  - name: 💡 Ideas & Brainstorming
+    url: https://github.com/dotAIslash/dotaislash-spec/discussions/categories/ideas
+    about: Share your ideas for improving VERSA
