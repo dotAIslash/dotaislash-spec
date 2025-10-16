@@ -323,9 +323,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ## 📄 License
 
-MIT © [dotAIslash](https://github.com/dotAIslash)
+**CC BY 4.0** © [Alphin Tom](https://github.com/alpha912)
 
-See [LICENSE](LICENSE) for details.
+This specification is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to share and adapt this specification for any purpose, even commercially, as long as you provide appropriate attribution.
+
+See [LICENSE](LICENSE) for full details.
 
 ---
 
@@ -334,7 +338,7 @@ See [LICENSE](LICENSE) for details.
 - 🌐 **Website:** [dotaislash.github.io](https://dotaislash.github.io)
 - 💬 **Discussions:** [GitHub Discussions](https://github.com/dotAIslash/dotaislash-spec/discussions)
 - 🐛 **Issues:** [GitHub Issues](https://github.com/dotAIslash/dotaislash-spec/issues)
-- 📧 **Email:** alphin@mycel.me
+- 👤 **Author:** [Alphin Tom](https://github.com/alpha912)
 
 ---
 
